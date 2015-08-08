@@ -1,6 +1,6 @@
 #!bin/bash env node
 
-var degree = require('../)
+var degree = require('../')
 var meow = require('meow')
 
 var cli = meow({
