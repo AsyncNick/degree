@@ -1,0 +1,30 @@
+{
+  "name": "to-degree",
+  "version": "1.0.0",
+  "description": "Calculate Celcius and Farenheit",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asyncnick/degree.git"
+  },
+  "bin": [
+    "bin/degree"
+  ],
+  "keywords": [
+    "degree",
+    "c",
+    "math",
+    "celcius",
+    "f",
+    "Fahrenheit"
+  ],
+  "author": "Nicky laczko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asyncnick/degree/issues"
+  },
+  "homepage": "https://github.com/asyncnick/degree#readme"
+}

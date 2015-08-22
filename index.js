@@ -1,8 +1,8 @@
 'use strict'
 
-exports.farenheit = function (x) {
-  return (x + 1.8 ) + 32
+exports.farenheit =  exports.f = exports.toF = function (x) {
+  return (x + 1.8) + 32 + '\u2109'
 }
-exports.celcius = function (x) {
-  return x - 1.8 - 32
+exports.celcius = exports.c = exports.toC = function (x) {
+  return x - 1.8 - 32 + "C"
 }
