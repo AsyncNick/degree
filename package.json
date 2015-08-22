@@ -1,6 +1,6 @@
 {
   "name": "to-degree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate Celcius and Farenheit",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/asyncnick/degree/issues"
+  },
+  "dependencies": {
+    "meow": "^3.3.0"
   },
   "homepage": "https://github.com/asyncnick/degree#readme"
 }
